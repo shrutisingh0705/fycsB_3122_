@@ -1,2 +1,2 @@
 print("hello world")
-print("welcome sycsb")
+print("welcome sycs-B")
